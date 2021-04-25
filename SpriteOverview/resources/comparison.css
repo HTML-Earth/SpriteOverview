@@ -1,0 +1,21 @@
+body
+{
+	background-color: #020f17;
+	color: #23aafd;
+}
+
+img {
+    border: 1px solid #555;
+}
+
+td {
+    text-align: right;
+}
+
+td:nth-child(2) {
+    text-align: left;
+}
+
+.title {
+    text-align: center;
+}
